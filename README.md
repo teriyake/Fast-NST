@@ -1,6 +1,6 @@
 # Neural Style Transfer
 
-For our CIS 5810 final project we implemented the classic Neural Style Transfer algorithm outlined by Gatys et al. in their 2015 paper and 2016 IEEE CVPR presentation [1][2], as well as a Fast NST approach based on the paper "Perceptual Losses for Real-Time Style Transfer and Super-Resolution" [3] by Johnson et al. to allow style transfer for video clips and other applications that require a faster implementation.
+For our CIS 5810 final project, we implemented the classic Neural Style Transfer algorithm outlined by Gatys et al. in their 2015 paper and 2016 IEEE CVPR presentation [1][2], as well as a Fast NST approach based on the paper "Perceptual Losses for Real-Time Style Transfer and Super-Resolution" [3] by Johnson et al. to allow style transfer for video clips and other applications that require a faster implementation.
 
 ## Installation
 
