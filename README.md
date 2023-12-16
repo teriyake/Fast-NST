@@ -6,7 +6,7 @@ For our CIS 5810 final project, we implemented the classic Neural Style Transfer
 
 Since our implementation uses Google Colab, no installation is required.   
 
-To run the code, create a new Google Colab notebook and clone this repository.  
+To run the code, create a new Google Colab notebook and clone this repository. _Make sure you are connected to a GPU runtime._  
 ```
 ! git clone https://github.com/teriyake/Fast-NST.git
 ```
